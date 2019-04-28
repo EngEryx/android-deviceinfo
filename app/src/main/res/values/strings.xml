@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Efisales - DeviceInfoTest</string>
+    <string name="device_type">Device Type</string>
+    <string name="phone_type">Phone Type</string>
+    <string name="orientation">Orientation</string>
+    <string name="network_type">Network Type</string>
+    <string name="device_charging_via">Charging Via</string>
+    <string name="ringer_mode">Ringer Mode</string>
+</resources>
